@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "550099576679",
+    "project_id": "code-glamour-7a0f9",
+    "storage_bucket": "code-glamour-7a0f9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:550099576679:android:eacada8abe39f1e05571c2",
+        "android_client_info": {
+          "package_name": "com.example.codeglamour"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "550099576679-hucom4d4jr44qjtus5pcsdgdpk9g9n4e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAah4vWevOdyLdk5_yJtQL0P1fAaq5Z4JA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "550099576679-hucom4d4jr44qjtus5pcsdgdpk9g9n4e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
