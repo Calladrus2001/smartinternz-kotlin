@@ -33,7 +33,7 @@ class MainActivity : ComponentActivity() {
     @Composable
     fun Navigation() {
         val navController = rememberNavController()
-        val _startDestination = Screens.MainScreen.route
+        val _startDestination = Screens.AuthScreen.route
         NavHost(navController = navController, startDestination = _startDestination) {
             composable(route = Screens.AuthScreen.route) {
                 AuthScreenView(navController = navController, auth = auth)
